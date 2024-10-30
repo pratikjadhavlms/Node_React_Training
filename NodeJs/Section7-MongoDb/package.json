@@ -1,0 +1,15 @@
+{
+  "name": "section7-mongodb",
+  "version": "1.0.0",
+  "description": "Database work",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pratik",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.10.0",
+    "mongoose": "^8.7.3"
+  }
+}
